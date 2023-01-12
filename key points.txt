@@ -1,0 +1,10 @@
+1. java -cp . "C:\Users\LOKNADH\Downloads\java\circlebasic.java"   -  use -cp . filepath  to compile the file for the output4
+
+2. 
+
+1. Create class Student, Employee, Book, Calculator.
+this will have just the name and attributes no methods.
+
+2. Add GetArea() method, and call both getPerimeter adn getArea()  method in main and print the returned values.
+ 
+3. Create Triangle and Circle classes and put getArea() method in them and call getArea() in main and print the result.
